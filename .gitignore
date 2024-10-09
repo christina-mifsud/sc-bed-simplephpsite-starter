@@ -1,1 +1,3 @@
-./docker/log/*
+# ./docker/log/*
+./docker/log/access.log
+./docker/log/error.log
